@@ -16,13 +16,11 @@ Insta360 and DJI cameras both write a filming timestamp into their filenames. Th
 
 ## Features
 
-✅ **Automatic Timecode Extraction** - Parses HH:MM:SS from Insta360 and DJI filenames  
-✅ **Multi-Camera Support** - Auto-detects Insta360 vs DJI per clip in one batch  
-✅ **Batch Processing** - Update multiple clips in one operation  
-✅ **Cross-Platform Support** - Works on Windows, macOS, and Linux  
-✅ **Error Handling** - Detailed logging for successful and failed operations  
-✅ **Non-Destructive** - Only modifies timecode metadata, not media files  
-✅ **User-Friendly Output** - Clear feedback on what was processed  
+- Automatic Timecode Extraction: Parses HH:MM:SS from Insta360 and DJI filenames  
+- Multi-Camera Support: Auto-detects Insta360 vs DJI per clip in one batch  
+- Batch Processing: Update multiple clips in one operation  
+- Cross-Platform Support: Works on Windows, macOS, and Linux  
+- Non-Destructive: Only modifies timecode metadata, not media files  
 
 ## Filename Patterns
 
